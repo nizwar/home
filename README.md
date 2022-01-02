@@ -210,6 +210,13 @@ Have you changed something in the code to create your own version? Feel free to 
       </a>
       <br />
     </td>
+    <td align="center">
+      <a href="https://github.com/nizwar/home">
+        <br />
+        <sub><b>Nizwar</b></sub>
+      </a>
+      <br />
+    </td>
   </tr>
 </table>
 
