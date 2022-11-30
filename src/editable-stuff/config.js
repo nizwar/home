@@ -145,7 +145,7 @@ const experiences = {
         {
             role: 'Mobile Developer at WBlue Team', // Here Add Company Name
             companylogo: require('../assets/img/wblue.png'),
-            date: 'Jan 2021 – Present',
+            date: 'Jan 2021 – Nov 2022',
         },
     ]
 }
