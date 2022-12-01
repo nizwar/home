@@ -96,7 +96,7 @@ const leadership = {
 
 // SKILLS SECTION
 const skills = {
-    show: true,
+    show: false,
     heading: "Skills",
     hardSkills: [
         { name: "Flutter", value: 90 },
@@ -121,7 +121,7 @@ const getInTouch = {
     show: true,
     heading: "Get In Touch",
     message: "I'm currently looking for Mobile Developer opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-    email: "nizwar_id@gmail.com",
+    email: "nizwar_id@icloud.com",
 };
 
 const experiences = {
